@@ -1,11 +1,13 @@
 # ProyectoFinal
 
-Este es el Repositorio para el Proyecto Final "Échame una mano".
+### Este es el Repositorio para el Proyecto Final **Échame una mano**.
 
 Los integrantes del proyecto son:
 
-Abel
-Diego
-Lucero
-Moisés
-Pavel
+*Abel
+*Diego
+*Lucero
+*Moisés
+*Pavel
+
+
