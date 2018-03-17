@@ -10,6 +10,13 @@ Los integrantes del proyecto son:
 * Moisés
 * Pavel
 
+## Tareas (por definir)
+
+* **Abel:**
+* **Diego:**
+* **Lucero:**
+* **Moisés:** Paleta de colores.
+* **Pavel:** Diseño de logotipo.
 
 ## El reto
 
