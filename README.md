@@ -4,10 +4,10 @@
 
 Los integrantes del proyecto son:
 
-*Abel
-*Diego
-*Lucero
-*Moisés
-*Pavel
+* Abel
+* Diego
+* Lucero
+* Moisés
+* Pavel
 
 
