@@ -1,6 +1,6 @@
-# ProyectoFinal
+# Échame una mano
 
-### Este es el Repositorio para el Proyecto Final **Échame una mano**.
+### Este es el Repositorio para el Proyecto Final.
 
 Los integrantes del proyecto son:
 
