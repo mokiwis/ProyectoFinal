@@ -1,0 +1,17 @@
+.contenedor{
+  border-bottom: solid grey;
+}
+
+.emocion{
+  border-bottom: solid grey;
+  justify-content: center;
+}
+
+.emocion img{
+  width: 70%;
+  height: 70%;
+}
+
+#comentarios{
+  border: solid grey;
+}
