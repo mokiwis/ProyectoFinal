@@ -42,4 +42,4 @@ Agosto 2018
 
 ## Logotipo
 
-![](https://raw.githubusercontent.com/mokiwis/ProyectoFinal/master/images/logo.png)
+![](https://raw.githubusercontent.com/mokiwis/ProyectoFinal/master/images/logo-negro.png)
