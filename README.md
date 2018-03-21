@@ -6,17 +6,19 @@ Los integrantes del proyecto son:
 
 * Abel
 * Diego
+* Erick
 * Lucero
 * Moisés
 * Pavel
 
 ## Tareas (por definir)
 
-* **Abel:**
-* **Diego:**
-* **Lucero:**
-* **Moisés:** Paleta de colores.
-* **Pavel:** Diseño de logotipo.
+* **Abel:** Selección de categorías, Califica el servicio.
+* **Diego:** Evidencias, Selección de servicio, Registro.
+* **Erick:** Atención al cliente, Técnico sugerido.
+* **Lucero:** (Páginas por elegir).
+* **Moisés:** Index, Barra de navegación, Legales, Paleta de colores.
+* **Pavel:** (Páginas por elegir), Diseño de logotipo.
 
 ## El reto
 
