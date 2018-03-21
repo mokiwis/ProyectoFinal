@@ -217,6 +217,11 @@
   border-bottom: solid grey;
 }
 
+.contenedor2{
+	background-color:#8B7A84;
+	color: orange;
+}
+
 .emocion{
   border-bottom: solid grey;
   justify-content: center;
@@ -278,4 +283,8 @@
 
 #comentarios{
   border: solid grey;
+}
+
+.separador{
+	height: 100px;
 }
