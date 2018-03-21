@@ -1,0 +1,139 @@
+/*Estilos de Moisés*/
+
+.account {
+	display: flex;
+	height: 30px;
+	margin-top: 28px;
+	justify-content: space-between;
+}
+
+#logo {
+	width: 110px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.head {
+	display: flex;
+	padding-left: 10px;
+	padding-right: 10px;
+	background: DarkOrange;
+	align-content: flex-end;
+	box-shadow: 10px 20px #888888;
+
+}
+
+.background-image {
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+}
+
+#login {
+	background: #003399;
+	color: white;
+	border-radius: 10px;
+	padding: 0px 10px;
+	padding-top: 2px;
+	margin:  0px 5px;
+
+}
+
+#register {
+	background: #003399;
+	color: white;
+	border-radius: 10px;
+	padding: 0px 10px;
+	padding-top: 2px;
+}
+
+.categoria {
+	color: white;
+	padding-top: 30px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 15px;
+}
+
+.categoria:hover {
+	color: black;
+	background: orange;
+}
+
+.nav-bar {
+	display: flex;
+	align-content: flex-end;
+}
+
+
+/*Estilos de Erick*/
+
+.estilo{
+  border: 1px solid black;
+}
+
+.chat{
+  border: 1px solid black;
+  width: 1200px;
+  height: 420px;
+}
+
+.escribir{
+  border: 1px solid black;
+}
+
+.frog{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.titulo2{
+
+}
+
+.borde{
+  border: 1px solid black;
+  width: 1300px;
+  height: 500px;
+}
+
+/*Estilos de Abel*/
+
+.categorias{
+  text-align: center;
+}
+
+.CategoriasDetalladas{
+  text-align: left;
+}
+
+.categorias img{
+  width: 75%;
+  height: 75%;
+  border-radius: 25%;
+}
+
+.boton{
+  background-color: orange;
+  text-align: center;
+
+}
+
+.contenedor{
+  border-bottom: solid grey;
+}
+
+.emocion{
+  border-bottom: solid grey;
+  justify-content: center;
+}
+
+.emocion img{
+  width: 70%;
+  height: 70%;
+}
+
+#comentarios{
+  border: solid grey;
+}
