@@ -17,7 +17,7 @@ Los integrantes del proyecto son:
 * **Diego:** Evidencias, Selección de servicio, Registro.
 * **Erick:** Atención al cliente, Técnico sugerido.
 * **Lucero:** (Páginas por elegir).
-* **Moisés:** Index, Barra de navegación, Legales, Paleta de colores.
+* **Moisés:** Index, Barra de navegación, Legales, Paleta de colores, Estilos.
 * **Pavel:** (Páginas por elegir), Diseño de logotipo.
 
 ## El reto
@@ -39,3 +39,7 @@ Agosto 2018
 ## Paleta de color
 
 ![](https://raw.githubusercontent.com/mokiwis/ProyectoFinal/master/referencias/paleta.jpeg)
+
+## Logotipo
+
+![](https://raw.githubusercontent.com/mokiwis/ProyectoFinal/master/images/logo.png)
