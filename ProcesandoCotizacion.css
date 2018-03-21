@@ -1,0 +1,13 @@
+.Reloj{
+  display: flex;
+  justify-content: center;
+}
+
+.Logo img{
+  width: 45%;
+  height: 45%;
+}
+
+.Mensaje{
+  text-align: center;
+}
