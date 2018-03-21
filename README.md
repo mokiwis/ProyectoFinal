@@ -11,7 +11,7 @@ Los integrantes del proyecto son:
 * Moisés
 * Pavel
 
-## Tareas (por definir)
+## Tareas
 
 * **Abel:** Selección de categorías, Califica el servicio.
 * **Diego:** Evidencias, Selección de servicio, Registro.
@@ -35,3 +35,7 @@ A través de una página web responsiva donde por medio de un formulario mixto (
 
 #### ¿Cuándo?
 Agosto 2018
+
+## Paleta de color
+
+![](https://raw.githubusercontent.com/mokiwis/ProyectoFinal/master/referencias/paleta.jpeg)
