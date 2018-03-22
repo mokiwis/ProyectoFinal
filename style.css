@@ -174,7 +174,7 @@
 }
 
 .landingContent {
-  
+
 }
 
 .testigoNombre {
@@ -352,4 +352,11 @@
 	height: 95%;
 }
 
+
+p{
+	text-align: center;
+  font-size: 60px;
+  margin-top:0px;
+	color:red;
+}
 /*Estilos de Lucero*/
