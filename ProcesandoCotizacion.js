@@ -2,7 +2,7 @@
 // var countDownDate = new Date("Mar 21, 2018 20:43:00").getTime();
 var d1 = new Date ();
 var d2 = new Date ( d1 );
-d2.setMinutes ( d1.getMinutes() + 1 );
+d2.setSeconds ( d1.getSeconds() + 15 );
 
 // Update the count down every 1 second
 var x = setInterval(function() {
