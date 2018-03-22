@@ -59,12 +59,20 @@
 }
 
 .descripcion {
-  padding: 70px;
+  padding: 120px 150px;
   background: rgba(255,255,255,0.8);
 }
+ .parrafo {
+  width: 300px;
+  font-size: 22px;
+ }
 
 .descripcion h3 {
   color: DarkOrange;
+}
+
+.descripcion h3:hover {
+  text-decoration: underline;
 }
 
 
@@ -158,8 +166,56 @@
   text-align: center;
 }
 
+.landingArea {
+  background-image: url('../ProyectoFinal/images/handyman-tools.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 750px;
+}
 
+.landingContent {
+  
+}
 
+.testigoNombre {
+  padding-right: 20px;
+}
+
+.landingText {
+  color: white;
+  text-align: center;
+  padding-top: 260px;
+  font-size: 66px;
+  line-height: 60px;
+  letter-spacing: 9px;
+}
+
+.landingSubText {
+  color: white;
+  text-align: center;
+  padding-top: 10px;
+  font-size: 26px;
+  letter-spacing: 6px;
+}
+
+.bannerTC {
+  background-image: url('../ProyectoFinal/images/tcbanner.png');
+  background-size: cover;
+  height: 110px;
+}
+
+.testimonioArea {
+  display: flex;
+  padding: 40px 20px;
+}
+
+.testimonio {
+  margin: 0px 30px;
+}
+
+.testigoNombre {
+  text-align: right;
+}
 
 /*Estilos de Erick*/
 
