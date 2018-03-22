@@ -20,6 +20,7 @@
 	background: DarkOrange;
 	align-content: flex-end;
   box-shadow: 10px 10px 5px grey;
+  justify-content: space-between;
 
 }
 
@@ -44,6 +45,7 @@
 	border-radius: 10px;
 	padding: 0px 10px;
 	padding-top: 2px;
+  margin:  0px 5px;
 }
 
 #login:hover {
