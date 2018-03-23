@@ -228,27 +228,31 @@ a {
 
 .nosotrosContent {
   display: flex;
-  flex-direction: column;
-  justify-content: center;
   background: #37343A;
-  padding: 40px 280px;
+  padding: 40px 80px;
   color: #FF8C00;
 }
+
 
 .nosotrosText p {
   color: white;
   font-size: 15px;
   text-align: left;
   font-size: 20px;
-  width: 800px;
+  width: 600px;
   padding-left: 80px;
 }
 
+.nosotrosText {
+  width: 450px;
+}
+
 .nosotrosTitle {
-text-align: center;
+  margin-left: 80px;
 }
 
 h3 {
+
   letter-spacing: 1px;
 }
 
@@ -558,4 +562,21 @@ p{
 
 .botonesFinales {
   margin-bottom: 90px;
+}
+
+.nosotrosFotos {
+ 
+  flex-direction: row;
+
+}
+
+.nosotrosFotosContent {
+  flex-direction: row;
+  margin-top: 35px;
+}
+
+.nosotrosFotos img {
+  width: 180px;
+  margin: 5px;
+  border-radius: 50%;
 }
