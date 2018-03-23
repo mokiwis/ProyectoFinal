@@ -249,18 +249,18 @@ h3 {
 
 /*Estilos de Erick*/
 
-.estilo{
+.bordeprueba{
   border: 1px solid black;
 }
 
 .chat{
-  border: 1px solid black;
   width: 1200px;
   height: 420px;
+	margin: 10px 10px 10px 30px;
 }
 
-.escribir{
-  border: 1px solid black;
+.escribirmargen{
+		margin: 0px 50px 10px 10px;
 }
 
 .frog{
@@ -269,15 +269,88 @@ h3 {
   justify-content: space-between;
 }
 
-.titulo2{
-
+.espaciot{
+		margin: 25px 0px 20px 0px;
+		text-align: center;
 }
 
-.borde{
-  border: 1px solid black;
-  width: 1300px;
-  height: 500px;
+.imagent{
+	border: 1px solid black;
+	width: 160px;
+	height: 210px;
+	margin: 10px 0px 10px 10px;
 }
+
+.tmueves{
+		margin: 0px 0px 0px -120px;
+}
+
+.rangot{
+		border: 1px solid black;
+		width: 560px;
+		height: 250px;
+		margin: 10px 0px 40px 130px;
+}
+
+.cuadrodeaceptacionono{
+	border: 1px solid black;
+	width: 160px;
+	height: 50px;
+	text-align: center;
+	margin: 160px 15px 10px 15px;
+}
+
+.fondoshido{
+	background-color: rgba(0, 0, 0, 0.3);
+	margin: 10px 0px 0px 10px;
+	border-radius: 50px;
+}
+
+.movert2{
+	margin: -150px 0px 0px 400px
+}
+
+.fondoshidobajo{
+	background-color: rgba(0, 0, 0, 0.3);
+	margin: 10px 0px 30px 10px;
+	border-radius: 50px;
+}
+
+.centrart{
+	display: flex;
+	justify-content: center;
+}
+
+.nombret{
+	border: 1px solid black;
+	width: 350px;
+	height: 30px;
+	margin: 10px 10px 0px 10px;
+}
+
+.izquierdat{
+	margin: 0px 0px 0px -160px;
+}
+
+.especialidadest{
+	border: 1px solid black;
+	width: 350px;
+	height: 170px;
+	margin: 10px 10px 10px 10px;
+}
+
+.conjuntot{
+	margin: 10px 10px 10px 10px;
+}
+
+.separaciont{
+	margin: 70px 200px 0px -170px;
+}
+
+.untitulo{
+	margin: 30px 0px 0px 240px;
+}
+
 
 /*Estilos de Abel*/
 
