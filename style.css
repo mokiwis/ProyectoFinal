@@ -256,13 +256,13 @@
 }
 
 .CategoriasDetalladas{
-  text-align: left;
+  text-align: left
 }
 
 .categorias img{
   width: 75%;
   height: 75%;
-  border-radius: 25%;
+  border-radius: 45px;
 }
 
 .boton{
@@ -360,3 +360,8 @@ p{
 	color:red;
 }
 /*Estilos de Lucero*/
+.subtitulos{
+	text-align: center;
+	font-size: 200%;
+	color: rgb(55, 52, 58);
+}
