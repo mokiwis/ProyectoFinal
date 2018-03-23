@@ -15,16 +15,16 @@
 }
 
 #logo {
-	width: 110px;
-	padding-top: 5px;
-	padding-bottom: 5px;
+  width: 210px;
+  padding-top: 18px;
+  padding-bottom: 5px;
 }
 
 .head {
 	display: flex;
 	padding-left: 10px;
 	padding-right: 10px;
-	background: #FF8C00;
+	background: #37343A;
 	align-content: flex-end;
   box-shadow: 10px 10px 5px grey;
   justify-content: space-between;
