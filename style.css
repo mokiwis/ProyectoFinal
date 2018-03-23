@@ -406,6 +406,10 @@ h3 {
   justify-content: center;
 }
 
+.Reloj img{
+	height: 250px;
+}
+
 .Logo img{
   width: 45%;
   height: 45%;
