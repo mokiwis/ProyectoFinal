@@ -1,5 +1,9 @@
 /*Estilos de Moisés*/
 
+a {
+  color: inherit;
+}
+
 .account {
 	display: flex;
 	height: 35px;
